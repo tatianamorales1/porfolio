@@ -1,6 +1,7 @@
 h1 {
   position: absolute;
   left: 50px;
+  top: 100px;
   color: blue;
   font-family: lucida;
   font-size: 80px
@@ -9,11 +10,16 @@ h1 {
 img {
   position: absolute;
   right: 100px;
+  top: 50px
+}
+
+body {
+  background-image: url(https://www.xmple.com/wallpaper/blue-linear-gradient-pink-2560x1440-c2-00ffff-ff69b4-a-15-f-14.svg);
 }
 
 h2 {
   position: absolute;
   left: 30px;
-  font-size: 50px;
-  font-family: lucida;
+  top: 500px;
+  color: blue;
 }
